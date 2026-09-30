@@ -1,4 +1,4 @@
-# Modul 4: Social Engineering & Session Hijacking
+# Modul 4: Social Engineering Awareness & Session Hijacking Analysis
 
 Laporan evaluasi praktikal keamanan siber dan analisis kerentanan pada portal finansial simulasi **PT Teknologi Aman Sejahtera** (*Vinix Seven Internship Program*).
 
