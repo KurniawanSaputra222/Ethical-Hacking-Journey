@@ -1,6 +1,6 @@
 # Modul 10: Digital Forensics & Incident Response (Operation Chimera)
 
-Laporan investigasi insiden siber pada server Internal HR Portal (`hr-portal.vinix.local`) milik PT Vinix Seven Aurum[cite: 70].
+Laporan investigasi insiden siber pada server Internal HR Portal (`hr-portal.vinix.local`) milik PT Vinix Seven Aurum
 
 👥 Kelompok 8
 - Afnan Yazid Pradana
